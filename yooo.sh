@@ -1,2 +1,2 @@
 #!/bin/bash
-bro wts up
+echo "bro wts up"
