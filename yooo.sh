@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "bro wts up"
+echo "chakka"
